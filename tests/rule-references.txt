@@ -172,6 +172,7 @@ https://attackerkb.com/topics/2faW2CxJgQ/cve-2023-4966
 https://attackerkb.com/topics/Bkij5kK1qK/cve-2022-21587/rapid7-analysis
 https://attackerkb.com/topics/SSTk336Tmf/cve-2024-3400/rapid7-analysis
 https://awakesecurity.com/blog/threat-hunting-for-paexec/
+https://awscli.amazonaws.com/v2/documentation/api/2.14.0/reference/account/enable-region.html
 https://bad-jubies.github.io/RCE-NOW-WHAT/
 https://badoption.eu/blog/2023/01/31/code_c2.html
 https://bazaar.abuse.ch/browse/signature/RaspberryRobin/
@@ -292,6 +293,7 @@ https://blogs.vmware.com/security/2022/11/batloader-the-evasive-downloader-malwa
 https://blogs.vmware.com/security/2023/11/jupyter-rising-an-update-on-jupyter-infostealer.html
 https://bloodhound.readthedocs.io/en/latest/data-collection/azurehound.html
 https://blooteem.com/march-2022
+https://blu.org/mhonarc/discuss/2001/04/msg00285.php
 https://blu3-team.blogspot.com/2019/06/misleading-extensions-xlsexe-docexe.html
 https://blueteamops.medium.com/detecting-dev-tunnels-16f0994dc3e2
 https://blueteamops.medium.com/secedit-and-i-know-it-595056dee53d
@@ -475,6 +477,7 @@ https://docs.aws.amazon.com/STS/latest/APIReference/API_GetSessionToken.html
 https://docs.aws.amazon.com/vm-import/latest/userguide/vmexport.html#export-instance
 https://docs.djangoproject.com/en/1.11/ref/exceptions/
 https://docs.djangoproject.com/en/1.11/topics/logging/#django-security
+https://docs.fortinet.com/document/fortigate/7.6.4/cli-reference/390485493/config-system-admin
 https://docs.github.com/en/actions/hosting-your-own-runners/about-self-hosted-runners#about-self-hosted-runners
 https://docs.github.com/en/code-security/dependabot/dependabot-alerts/about-dependabot-alerts
 https://docs.github.com/en/enterprise-cloud@latest/admin/monitoring-activity-in-your-enterprise/reviewing-audit-logs-for-your-enterprise/audit-log-events-for-your-enterprise
@@ -869,9 +872,11 @@ https://github.com/carlospolop/PEASS-ng/blob/fa0f2e17fbc1d86f1fd66338a40e665e718
 https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS
 https://github.com/CCob/MirrorDump
 https://github.com/center-for-threat-informed-defense/adversary_emulation_library/blob/bf62ece1c679b07b5fb49c4bae947fe24c81811f/fin6/Emulation_Plan/Phase1.md
+https://github.com/CheraghiMilad/bypass-Neo23x0-auditd-config/blob/f1c478a37911a5447d5ffcd580f22b167bf3df14/sysinfo-syscall/README.md
 https://github.com/CICADA8-Research/RemoteKrbRelay
 https://github.com/CICADA8-Research/RemoteKrbRelay/blob/19ec76ba7aa50c2722b23359bc4541c0a9b2611c/Exploit/RemoteKrbRelay/Relay/Attacks/RemoteRegistry.cs#L31-L40
 https://github.com/Cisco-Talos/IOCs/tree/80caca039988252fbb3f27a2e89c2f2917f582e0/2022/11
+https://github.com/clearvector/lambda-spy
 https://github.com/cloudflare/cloudflared
 https://github.com/cloudflare/cloudflared/releases
 https://github.com/codewhitesec/HandleKatz
@@ -1163,6 +1168,7 @@ https://github.com/nknorg/nkn-sdk-go
 https://github.com/nsacyber/Event-Forwarding-Guidance/tree/6e92d622fa33da911f79e7633da4263d632f9624/Events
 https://github.com/offsecginger/koadic/blob/457f9a3ff394c989cdb4c599ab90eb34fb2c762c/data/stager/js/stdlib.js
 https://github.com/ohpe/juicy-potato
+https://github.com/okta/workflows-templates/blob/1164f0eb71ce47c9ddc7d850e9ab87b5a2b42333/workflows/suspicious_activity_reported/readme.md
 https://github.com/okta/workflows-templates/blob/master/workflows/suspicious_activity_reported/readme.md
 https://github.com/olafhartong/sysmon-modular/blob/fa1ae53132403d262be2bbd7f17ceea7e15e8c78/11_file_create/include_dotnet.xml
 https://github.com/openssh/openssh-portable/blob/c483a5c0fb8e8b8915fad85c5f6113386a4341ca/ssherr.c
@@ -2006,12 +2012,14 @@ https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/se
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4634
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4647
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4649
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4661
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4662
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4698
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4699
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4701
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4706
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4743
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4771
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4794
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-5140
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-6281
@@ -2370,6 +2378,7 @@ https://mikefrobbins.com/2017/06/15/simple-obfuscation-with-powershell-using-bas
 https://mn3m.info/posts/suid-vs-capabilities/
 https://mobile.twitter.com/0gtweet/status/1564131230941122561
 https://modexp.wordpress.com/2019/08/30/minidumpwritedump-via-com-services-dll/
+https://moonlock.com/amos-backdoor-persistent-access
 https://mp.weixin.qq.com/s/wX9TMXl1KVWwB_k6EZOklw
 https://mp.weixin.qq.com/s?__biz=Mzg3NDU2MTg0Ng==&mid=2247484117&idx=1&sn=2fdab8cbe4b873f8dd8abb35d935d186
 https://mpgn.gitbook.io/crackmapexec/smb-protocol/authentication/checking-credentials-local
@@ -2530,6 +2539,7 @@ https://posts.specterops.io/mavinject-exe-functionality-deconstructed-c29ab2cf5c
 https://posts.specterops.io/passwordless-persistence-and-privilege-escalation-in-azure-98a01310be3f
 https://posts.specterops.io/requesting-azure-ad-request-tokens-on-azure-ad-joined-machines-for-browser-sso-2b0409caad30
 https://posts.specterops.io/shhmon-silencing-sysmon-via-driver-unload-682b5be57650
+https://posts.specterops.io/the-tale-of-settingcontent-ms-files-f1ea253e4d39
 https://powersploit.readthedocs.io/en/latest/Persistence/Install-SSP/
 https://powersploit.readthedocs.io/en/latest/Privesc/Write-HijackDll/
 https://powersploit.readthedocs.io/en/stable/Recon/README
@@ -2599,6 +2609,7 @@ https://research.checkpoint.com/ryuk-ransomware-targeted-campaign-break/
 https://research.eye.security/sharepoint-under-siege/
 https://research.kudelskisecurity.com/2023/06/12/cve-2023-27997-fortigate-ssl-vpn/
 https://research.nccgroup.com/2018/05/18/emissary-panda-a-potential-new-malicious-tool/
+https://research.nccgroup.com/2018/11/22/turla-png-dropper-is-back/
 https://research.nccgroup.com/2020/06/23/wastedlocker-a-new-ransomware-variant-developed-by-the-evil-corp-group/
 https://research.nccgroup.com/2020/07/10/rift-citrix-adc-vulnerabilities-cve-2020-8193-cve-2020-8195-and-cve-2020-8196-intelligence/
 https://research.nccgroup.com/2021/01/12/abusing-cloud-services-to-fly-under-the-radar/
@@ -2613,6 +2624,7 @@ https://research.splunk.com/endpoint/10399c1e-f51e-11eb-b920-acde48001122/
 https://research.splunk.com/endpoint/linux_doas_conf_file_creation/
 https://research.splunk.com/endpoint/linux_doas_tool_execution/
 https://research.splunk.com/endpoint/windows_possible_credential_dumping/
+https://research.splunk.com/sources/5d8bd475-c8bc-4447-b27f-efa508728b90/
 https://researchcenter.paloaltonetworks.com/2018/01/unit42-oilrig-uses-rgdoor-iis-backdoor-targets-middle-east/
 https://researchcenter.paloaltonetworks.com/2018/02/unit42-sofacy-attacks-multiple-government-entities/
 https://researchcenter.paloaltonetworks.com/2018/03/unit42-telerat-another-android-trojan-leveraging-telegrams-bot-api-to-target-iranian-users/
@@ -2725,6 +2737,7 @@ https://ss64.com/nt/mklink.html
 https://ss64.com/nt/net-service.html
 https://ss64.com/nt/netsh.html
 https://ss64.com/nt/regsvr32.html
+https://ss64.com/nt/schtasks.html
 https://ss64.com/nt/shell.html
 https://ss64.com/nt/syntax-redirection.html
 https://ss64.com/osx/csrutil.html
@@ -2732,6 +2745,7 @@ https://ss64.com/osx/dscl.html
 https://ss64.com/osx/dseditgroup.html
 https://ss64.com/osx/dsenableroot.html
 https://ss64.com/osx/osacompile.html
+https://ss64.com/osx/sw_vers.html
 https://ss64.com/osx/sysadminctl.html
 https://ss64.com/ps/foreach-object.html
 https://ssd-disclosure.com/ssd-advisory-common-log-file-system-clfs-driver-pe/
@@ -2799,6 +2813,7 @@ https://symantec-enterprise-blogs.security.com/threat-intelligence/harvester-new
 https://sysdig.com/blog/mitre-defense-evasion-falco
 https://systeminformer.sourceforge.io/
 https://t.co/ezOTGy1a1G
+https://taggart-tech.com/evildeno/
 https://taggart-tech.com/quasar-electron/
 https://taiwan.postsen.com/business/88601/Hamas-hackers-use-data-destruction-software-BiBi-which-consumes-a-lot-of-processor-resources-to-wipe-Windows-computer-data--iThome.html
 https://talesfrominfosec.blogspot.com/2017/12/killing-sysmon-silently.html
@@ -3656,6 +3671,7 @@ https://www.gteltsc.vn/blog/canh-bao-chien-dich-tan-cong-su-dung-lo-hong-zero-da
 https://www.guidepointsecurity.com/blog/tunnel-vision-cloudflared-abused-in-the-wild/
 https://www.guidepointsecurity.com/supernova-solarwinds-net-webshell-analysis/
 https://www.hackers-arise.com/post/2016/06/20/covering-your-bash-shell-tracks-antiforensics
+https://www.hackingarticles.in/defense-evasion-windows-event-logging-t1562-002/
 https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/
 https://www.hackingarticles.in/rdp-session-hijacking-with-tscon/
 https://www.hackingtutorials.org/networking/hacking-netcat-part-2-bind-reverse-shells/
@@ -3796,6 +3812,7 @@ https://www.microsoft.com/en-us/security/blog/2024/01/17/new-ttps-observed-in-mi
 https://www.microsoft.com/en-us/security/blog/2024/04/22/analyzing-forest-blizzards-custom-post-compromise-tool-for-exploiting-cve-2022-38028-to-obtain-credentials/
 https://www.microsoft.com/en-us/security/blog/2024/07/29/ransomware-operators-exploit-esxi-hypervisor-vulnerability-for-mass-encryption/
 https://www.microsoft.com/en-us/security/blog/2024/10/29/midnight-blizzard-conducts-large-scale-spear-phishing-campaign-using-rdp-files/
+https://www.microsoft.com/en-us/security/blog/2025/04/15/threat-actors-misuse-node-js-to-deliver-malware-and-other-malicious-payloads/
 https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2023/03/Figure-7-sample-webdav-process-create-event.png
 https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?name=TrojanSpy%3aMSIL%2fHakey.A
 https://www.microsoft.com/security/blog/2017/10/23/windows-defender-exploit-guard-reduce-the-attack-surface-against-next-generation-malware/
@@ -3962,6 +3979,7 @@ https://www.splunk.com/en_us/blog/security/breaking-the-chain-defending-against-
 https://www.splunk.com/en_us/blog/security/darkside-ransomware-splunk-threat-update-and-detections.html
 https://www.splunk.com/en_us/blog/security/follina-for-protocol-handlers.html
 https://www.splunk.com/en_us/blog/security/inno-setup-malware-redline-stealer-campaign.html
+https://www.splunk.com/en_us/blog/security/you-bet-your-lsass-hunting-lsass-access.html
 https://www.sprocketsecurity.com/resources/crossing-the-log4j-horizon-a-vulnerability-with-no-return
 https://www.swascan.com/cactus-ransomware-malware-analysis/
 https://www.sygnia.co/golden-saml-advisory
