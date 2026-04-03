@@ -111,6 +111,7 @@ https://app.any.run/tasks/64043a79-165f-4052-bcba-e6e49f847ec1/
 https://app.any.run/tasks/649e7b46-9bec-4d05-98a5-dfa9a13eaae5/
 https://app.any.run/tasks/65a79440-373a-4725-8d74-77db9f2abda4/
 https://app.any.run/tasks/6720b85b-9c53-4a12-b1dc-73052a78477d
+https://app.any.run/tasks/69c5abaa-92ad-45ba-8c53-c11e23e05d04/
 https://app.any.run/tasks/6d8cabb0-dcda-44b6-8050-28d6ce281687/
 https://app.any.run/tasks/7123e948-c91e-49e0-a813-00e8d72ab393/#
 https://app.any.run/tasks/713f05d2-fe78-4b9d-a744-f7c133e3fafb/
@@ -793,7 +794,9 @@ https://gist.github.com/Neo23x0/e4c8b03ff8cdf1fa63b7d15db6e3860b
 https://gist.github.com/NickTyrer/0598b60112eaafe6d07789f7964290d5
 https://gist.github.com/roycewilliams/a723aaf8a6ac3ba4f817847610935cfb
 https://gist.github.com/ryhanson/227229866af52e2d963cf941af135a52
+https://gist.github.com/swachchhanda000/a0228130f86a2dedfbcebb415b47f870
 https://gist.github.com/teixeira0xfffff/837e5bfed0d1b0a29a7cb1e5dbdd9ca6
+https://gist.github.com/travisbgreen/82b68bac499edbe0b17dcbfa0c5c71b7
 https://gist.githubusercontent.com/bohops/0cc6586f205f3691e04a1ebf1806aabd/raw/baf7b29891bb91e76198e30889fbf7d6642e8974/calc_exe.inf
 https://gist.githubusercontent.com/MichaelKoczwara/12faba9c061c12b5814b711166de8c2f/raw/e2068486692897b620c25fde1ea258c8218fe3d3/history.txt
 https://git.libssh.org/projects/libssh.git/tree/src/curve25519.c#n420
@@ -863,6 +866,7 @@ https://github.com/BloodHoundAD/BloodHound
 https://github.com/BloodHoundAD/BloodHound/blob/0927441f67161cc6dc08a53c63ceb8e333f55874/Collectors/AzureHound.ps1
 https://github.com/BloodHoundAD/SharpHound
 https://github.com/BloodHoundAD/SharpHound3/blob/7d96b991b1887ff50349ce59c80980bc0d95c86a/SharpHound3/LdapBuilder.cs
+https://github.com/bobby-tablez/TTP-Threat-Feeds/blob/45398914e631f8372c3a9fbcd339ff65ffff1b17/results/2025/10/20251001-161956-trendmicro-atomic-macos-stealer-(amos).yml#L44
 https://github.com/bohops/WSMan-WinRM
 https://github.com/boku7/injectAmsiBypass
 https://github.com/boku7/spawn
@@ -1151,6 +1155,7 @@ https://github.com/nasbench/EVTX-ETW-Resources/blob/7a806a148b3d9d381193d4a80356
 https://github.com/nasbench/EVTX-ETW-Resources/blob/f1b010ce0ee1b71e3024180de1a3e67f99701fe4/ETWProvidersManifests/Windows10/1803/W10_1803_Pro_19700101_17134.1/WEPExplorer/Application%20Popup.xml#L36
 https://github.com/nasbench/EVTX-ETW-Resources/blob/f1b010ce0ee1b71e3024180de1a3e67f99701fe4/ETWProvidersManifests/Windows10/22H2/W10_22H2_Pro_20230321_19045.2728/WEPExplorer/LsaSrv.xml
 https://github.com/nasbench/EVTX-ETW-Resources/blob/f1b010ce0ee1b71e3024180de1a3e67f99701fe4/ETWProvidersManifests/Windows11/22H2/W11_22H2_Pro_20221220_22621.963/WEPExplorer/Microsoft-Windows-MsiServer.xml
+https://github.com/nasbench/Misc-Research/blob/2f651ede832ab34027a7ba005b63bb78f1ade378/Other/React-Next-Child-Processes-Notes.md
 https://github.com/nasbench/Misc-Research/blob/8ee690e43a379cbce8c9d61107442c36bd9be3d3/Other/Undocumented-Flags-Sdbinst.md
 https://github.com/nasbench/Misc-Research/blob/b20da2336de0f342d31ef4794959d28c8d3ba5ba/ETW/Microsoft-Windows-Kernel-General.md
 https://github.com/nasbench/Misc-Research/blob/d114d6a5e0a437d3818e492ef9864367152543e7/Other/Persistence-Via-RegisterAppRestart-Shim.md
@@ -1718,6 +1723,7 @@ https://global.ptsecurity.com/analytics/pt-esc-threat-intelligence/darkhotel-a-c
 https://go.recordedfuture.com/hubfs/reports/mtp-2021-0914.pdf
 https://goo.gl/PsqrhT
 https://googleprojectzero.blogspot.com/2019/08/implant-teardown.html
+https://googleprojectzero.blogspot.com/2021/10/using-kerberos-for-authentication-relay.html
 https://grafana.com/blog/2021/12/07/grafana-8.3.1-8.2.7-8.1.8-and-8.0.7-released-with-high-severity-security-fix/
 https://grep.app/search?q=winpwn&filter[repo][0]=redcanaryco/atomic-red-team
 https://grzegorztworek.medium.com/using-uefi-to-inject-executable-files-into-bitlocker-protected-drives-8ff4ca59c94c
@@ -1771,6 +1777,7 @@ https://image.slidesharecdn.com/kheirkhabarovoffzonefinal-181117201458/95/huntin
 https://image.slidesharecdn.com/zeronights2017kheirkhabarov-171118103000/75/hunting-for-credentials-dumping-in-windows-environment-57-2048.jpg?cb=1666035799
 https://imagemagick.org/
 https://in.security/an-intro-into-abusing-and-identifying-wmi-event-subscriptions-for-persistence/
+https://informationsecuritybuzz.com/the-real-danger-behind-a-simple-windows-shortcut/
 https://infosec.exchange/@sbousseaden/109542254124022664
 https://infosecwriteups.com/amsi-bypass-new-way-2023-d506345944e9
 https://inquest.net/blog/2018/06/22/a-look-at-formbook-stealer
@@ -1847,6 +1854,7 @@ https://labs.withsecure.com/publications/detecting-onenote-abuse
 https://labs.withsecure.com/publications/fin7-target-veeam-servers
 https://labs.withsecure.com/publications/fin7-target-veeam-servers/jcr:content/root/responsivegrid/responsivegrid/responsivegrid/image_253944286.img.png/1682500394900.png
 https://labs.withsecure.com/publications/kapeka
+https://labs.yarix.com/2025/06/doppelganger-an-advanced-lsass-dumper-with-process-cloning/
 https://ladydebug.com/blog/2019/06/21/custom-protocol-handler-cph/
 https://learn.microsoft.com/de-de/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide
 https://learn.microsoft.com/de-de/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.3
@@ -2036,6 +2044,7 @@ https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/se
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4699
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4701
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4706
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4732
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4743
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4794
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-5140
@@ -2054,7 +2063,9 @@ https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-serve
 https://learn.microsoft.com/en-us/sql/odbc/odbcconf-exe?view=sql-server-ver16
 https://learn.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/sp-procoption-transact-sql?view=sql-server-ver16
 https://learn.microsoft.com/en-us/sql/t-sql/statements/drop-server-audit-transact-sql?view=sql-server-ver16
+https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns
 https://learn.microsoft.com/en-us/sysinternals/downloads/livekd
+https://learn.microsoft.com/en-us/sysinternals/downloads/microsoft-store
 https://learn.microsoft.com/en-us/sysinternals/downloads/procdump
 https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer
 https://learn.microsoft.com/en-us/sysinternals/downloads/psexec
@@ -2123,6 +2134,7 @@ https://learn.microsoft.com/en-us/windows/package-manager/winget/source
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/app-control-for-business/deployment/appcontrol-deployment-guide
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/app-control-for-business/deployment/deploy-appcontrol-policies-with-script
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/applocker/using-event-viewer-with-applocker
+https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/applocker/what-is-applocker
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/design/applications-that-can-bypass-wdac
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/operations/event-tag-explanations
 https://learn.microsoft.com/en-us/windows/security/identity-protection/virtual-smart-cards/virtual-smart-card-tpmvscmgr
@@ -2169,6 +2181,7 @@ https://learn.microsoft.com/en-us/windows/win32/winrm/windows-remote-management-
 https://learn.microsoft.com/en-us/windows/win32/wmisdk/connecting-to-wmi-remotely-starting-with-vista
 https://learn.microsoft.com/en-us/windows/win32/wmisdk/mofcomp
 https://learn.microsoft.com/en-us/windows/wsl/install-on-server
+https://learn.microsoft.com/fr-fr/windows-server/administration/windows-commands/fsutil-behavior
 https://learn.microsoft.com/pt-br/windows/win32/secauthz/sid-strings
 https://liberty-shell.com/sec/2020/02/25/shim-persistence/
 https://linux-audit.com/systemd/faq/what-is-the-difference-between-systemctl-disable-and-systemctl-mask/
@@ -2362,6 +2375,7 @@ https://medium.com/@malwaredancer/lockergoga-input-arguments-ipc-communication-a
 https://medium.com/@markmotig/some-ways-to-dump-lsass-exe-c4a75fdc49bf
 https://medium.com/@mvelazco/hunting-for-samaccountname-spoofing-cve-2021-42287-and-domain-controller-impersonation-f704513c8a45
 https://medium.com/@networksecurity/rdp-hijacking-how-to-hijack-rds-and-remoteapp-sessions-transparently-to-move-through-an-da2a1e73a5f6
+https://medium.com/@ninnesoturan/detecting-ipv6-dns-takeover-a54a6a88be1f
 https://medium.com/@NullByteWht/hacking-macos-how-to-dump-1password-keepassx-lastpass-passwords-in-plaintext-723c5b1c311b
 https://medium.com/@olafhartong/cobalt-strike-remote-threads-detection-206372d11d0f
 https://medium.com/@olafhartong/sysmon-14-0-fileblockexecutable-13d7ba3dff3e
@@ -2398,6 +2412,7 @@ https://micahbabinski.medium.com/search-ms-webdav-and-chill-99c5b23ac462
 https://microsoft.github.io/Threat-Matrix-for-Kubernetes/techniques/container%20service%20account/
 https://microsoft.github.io/Threat-Matrix-for-Kubernetes/techniques/Data%20destruction/
 https://microsoft.github.io/Threat-Matrix-for-Kubernetes/techniques/Exec%20into%20container/
+https://microsoft.github.io/Threat-Matrix-for-Kubernetes/techniques/List%20K8S%20secrets/
 https://microsoft.github.io/Threat-Matrix-for-Kubernetes/techniques/Pod%20or%20container%20name%20similarily/
 https://microsoft.github.io/Threat-Matrix-for-Kubernetes/techniques/Sidecar%20Injection/
 https://microsoft.github.io/Threat-Matrix-for-Kubernetes/techniques/Writable%20hostPath%20mount/
@@ -3463,6 +3478,7 @@ https://web.archive.org/web/20230329172447/https://blog.menasec.net/2019/02/thre
 https://web.archive.org/web/20230409194125/https://blog.menasec.net/2019/03/threat-hunting-25-scheduled-tasks-for.html
 https://web.archive.org/web/20230420013146/http://security-research.dyndns.org/pub/slides/FIRST2017/FIRST-2017_Tom-Ueltschi_Sysmon_FINAL_notes.pdf
 https://web.archive.org/web/20230726144748/https://blog.thickmints.dev/mintsights/detecting-rogue-rdp/
+https://web.archive.org/web/20231015205935/https://githubmemory.com/repo/FunctFan/JNDIExploit
 https://web.archive.org/web/20231210115125/http://www.xuetr.com/
 https://web.archive.org/web/20231221193106/https://www.swascan.com/cactus-ransomware-malware-analysis/
 https://web.archive.org/web/20231230220738/https://www.lunasec.io/docs/blog/log4j-zero-day/
@@ -3697,6 +3713,7 @@ https://www.fortinet.com/blog/threat-research/ursnif-variant-spreading-word-docu
 https://www.fortinet.com/content/dam/fortinet/assets/analyst-reports/ar-qakbot.pdf
 https://www.fortypoundhead.com/showcontent.asp?artid=24022
 https://www.fox-it.com/en/news/whitepapers/operation-wocao-shining-a-light-on-one-of-chinas-hidden-hacking-groups/
+https://www.getsafety.com/blog-posts/shai-hulud-npm-attack
 https://www.giac.org/paper/gcih/266/review-ftp-protocol-cyber-defense-initiative/102802
 https://www.glitch-cat.com/p/green-lambert-and-attack
 https://www.gnu.org/software/wget/manual/wget.html
@@ -4209,6 +4226,7 @@ https://www.virustotal.com/gui/file/fab408536aa37c4abc8be97ab9c1f86cb33b63923d42
 https://www.virustotal.com/gui/file/fc614fb4bda24ae8ca2c44e812d12c0fab6dd7a097472a35dd12ded053ab8474
 https://www.virustotal.com/gui/file/fdc86a5b3d7df37a72c3272836f743747c47bfbc538f05af9ecf78547fa2e789/behavior
 https://www.virustotal.com/gui/search/behaviour_network%253A*.miningocean.org/files
+https://www.virustotal.com/gui/search/behaviour_processes%253A%2522C%253A%255C%255CWindows%255C%255CSysWOW64%255C%255Cmore.com%2522%2520behaviour_processes%253A%2522C%253A%255C%255CWindows%255C%255CMicrosoft.NET%255C%255CFramework%255C%255Cv4.0.30319%255C%255Cvbc.exe%2522/files
 https://www.virustotal.com/gui/search/content%253A%2522Set-MpPreference%2520-Disable%2522/files
 https://www.virustotal.com/gui/search/filename%253A*spoof*%2520filename%253A*ppid*/files
 https://www.virustotal.com/gui/search/metadata%253ACube0x0/files
@@ -4230,6 +4248,7 @@ https://www.welivesecurity.com/2019/05/29/turla-powershell-usage/
 https://www.welivesecurity.com/2020/01/31/winnti-group-targeting-universities-hong-kong/
 https://www.welivesecurity.com/2020/05/21/no-game-over-winnti-group/
 https://www.welivesecurity.com/2020/07/09/more-evil-deep-look-evilnum-toolset/
+https://www.welivesecurity.com/2020/07/16/mac-cryptocurrency-trading-application-rebranded-bundled-malware/
 https://www.welivesecurity.com/2022/01/18/donot-go-do-not-respawn/
 https://www.welivesecurity.com/2022/03/01/isaacwiper-hermeticwizard-wiper-worm-targeting-ukraine/
 https://www.welivesecurity.com/2022/12/14/unmasking-mirrorface-operation-liberalface-targeting-japanese-political-entities/
